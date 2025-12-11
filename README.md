@@ -1,5 +1,9 @@
 # 💫 About Me:
-🎮 Unity developer focused making games<br>🌱 Currently improving my Front-End skills and advancing in Unity C#<br>🫱🏻‍🫲🏻 Open to connecting and collaborating with developers of any language<br>💬 Enjoy solving Unity issues and sharing knowledge with other developers<br>⚡ I started programming when I was eight years old
+🎮 Unity developer focused on making games<br>
+🌱 Currently improving my Front-End skills and advancing in Unity C#<br>
+🫱🏻‍🫲🏻 Open to connecting and collaborating with developers of any language<br>
+💬 I enjoy solving Unity issues and sharing knowledge with other developers<br>
+⚡ I started programming when I was eight years old
 
 
 ## 🌐 Socials:
